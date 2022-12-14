@@ -1,8 +1,7 @@
 import streamlit as st
 import time
-import pdf_test
+#import pdf_test
 
-#%%
 col1, col2, col3 = st.columns([1, 2 ,3])
 
 col1.markdown(" # Welcome to my Innovative App! ")
